@@ -1,0 +1,2 @@
+[development.databases.primary_db]
+url = "database.sqlite"

@@ -1,0 +1,6 @@
+-- Your SQL goes here
+CREATE TABLE IF NOT EXISTS todos (
+  id INTEGER PRIMARY KEY NOT NULL,
+  title VARCHAR(255) NOT NULL,
+  completed BOOLEAN NOT NULL
+);
